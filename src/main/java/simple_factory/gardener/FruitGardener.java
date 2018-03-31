@@ -1,7 +1,5 @@
 package simple_factory.gardener;
 
-import simple_factory.Apple;
-
 public class FruitGardener {
     /**
      * 静态工厂方法

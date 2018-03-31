@@ -1,7 +1,5 @@
 package simple_factory.gardener;
 
-import simple_factory.Fruit;
-
 public class Apple implements Fruit {
 
     private int treeAge;
