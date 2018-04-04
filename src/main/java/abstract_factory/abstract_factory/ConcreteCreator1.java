@@ -1,4 +1,4 @@
-package abstract_factory;
+package abstract_factory.abstract_factory;
 
 public class ConcreteCreator1 implements Creator {
     public ProductA factoryA() {
