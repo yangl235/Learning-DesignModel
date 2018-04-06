@@ -7,7 +7,6 @@ public class TropicalGardener implements Gardener {
     public Fruit createFruit(String name) {
         return new TropicalFruit(name);
     }
-
     /**
      * 蔬菜的工厂方法
      */
