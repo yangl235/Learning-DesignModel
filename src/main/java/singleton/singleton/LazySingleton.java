@@ -1,4 +1,4 @@
-package singleton;
+package singleton.singleton;
 
 public class LazySingleton {
     private static LazySingleton m_instance = null;

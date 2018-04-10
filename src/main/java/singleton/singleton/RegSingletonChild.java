@@ -1,4 +1,4 @@
-package singleton;
+package singleton.singleton;
 
 public class RegSingletonChild extends RegSingleton {
     public RegSingletonChild() {
