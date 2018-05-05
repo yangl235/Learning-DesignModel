@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "xmlproperties.dtd">
+<properties>
+    <propertylist name="mylist">
+        <property name="myname">
+            webendhere
+        </property>
+        <property name="website">
+            www.webendhere.com
+        </property>
+        <property name="email">
+            webmaster@webendhere.com
+        </property>
+        <property name="techsupport">
+            support@webendhere.com
+        </property>
+    </propertylist>
+</properties>
